@@ -1,0 +1,8 @@
+USERNAME: amar
+-----------------------------------------------
+The user has lost this session
+The word was 'fat'
+-----------------------------------------------
+The user has won this session
+and has missed 7 times.
+The word was 'section'
